@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{4:function(w,n,o){"use strict";o.r(n);var a=o(2),e=o(3);a.a(["hello","world"]),e.a(new Date)}},[[4,4,5,0,2,3]]]);

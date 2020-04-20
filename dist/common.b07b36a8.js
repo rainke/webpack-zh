@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,function(n,o,c){"use strict";c.d(o,"a",function(){return t});var e=c(0);function t(n){return console.log("common!!!"),Object(e.sample)(n)}}]]);
